@@ -3,8 +3,8 @@ jdk:
 - openjdk15
 addons:
 sonarcloud:
-organization: "AnastasiaBrinati"
-token: "00f67a4b9468a565e9659e03c7f6c240164effb7"
+organization: "anastasiabrinati"
+token: "661a057f7fe9cebb49332a43b4a95731f863baac"
 script:
 // - ant build
    - sonar-scanner
