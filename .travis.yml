@@ -3,7 +3,7 @@ jdk:
 - openjdk15
 addons:
 sonarcloud:
-organization: "anastasiabrinati"
+organization: "bnastasiabrinati"
 token: "661a057f7fe9cebb49332a43b4a95731f863baac"
 script:
 // - ant build
