@@ -1,0 +1,10 @@
+language: java
+jdk:
+- openjdk11
+addons:
+sonarcloud:
+organization: "AnastasiaBrinati"
+token: "00f67a4b9468a565e9659e03c7f6c240164effb7"
+script:
+- ant build
+- sonar-scanner
