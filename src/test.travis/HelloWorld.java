@@ -1,4 +1,4 @@
-package testTravis;
+package test_travis;
 
 public class HelloWorld {
 	public static void main(String[] args) {
